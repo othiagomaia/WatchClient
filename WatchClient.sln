@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchClient.Tizen.TV", "WatchClient\WatchClient.Tizen.TV\WatchClient.Tizen.TV.csproj", "{81050B47-4270-4C14-A0BE-040DBBBC6889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchClient", "WatchClient\WatchClient\WatchClient.csproj", "{BBD818A6-1F45-4747-AB38-407017099AA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81050B47-4270-4C14-A0BE-040DBBBC6889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81050B47-4270-4C14-A0BE-040DBBBC6889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81050B47-4270-4C14-A0BE-040DBBBC6889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81050B47-4270-4C14-A0BE-040DBBBC6889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD818A6-1F45-4747-AB38-407017099AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD818A6-1F45-4747-AB38-407017099AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD818A6-1F45-4747-AB38-407017099AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD818A6-1F45-4747-AB38-407017099AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {771787C7-9A43-4BFE-9DFB-5E19373A753E}
+	EndGlobalSection
+EndGlobal
